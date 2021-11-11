@@ -16,7 +16,7 @@ namespace Storage.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "dosya1", "dosya2" };
         }
 
         
